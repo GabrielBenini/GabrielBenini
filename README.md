@@ -1,26 +1,25 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Mundo</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Olá 👋, eu sou o Gabriel, estudante de Análise e Desenvolvimento de Sistemas .
+  Hi 👋, my name is Gabriel, i live in Brazil, and im a Systems Analysis and Development student .
 
-  - 🌱 Atualmente cursando o 2 semestre de Análise e Desenvolvimento de Sistemas na FIAP 
+  - 🌱 Currently studying the 2nd semester of Systems Analysis and Development at FIAP 
 
-  - 🔭 Estou procurando pela minha primeira oportunidade de estágio. Meu sonho é me tornar um desenvolvedor Back-end
+  - 🔭 I'm looking for my first internship opportunity. My dream is to become a Back-end developer
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 More about me </summary>
 
-  - 💬 Tenho 20 anos, atualmente morando em Americana - SP . Tenho inglês avançado, e conhecimentos em HTML, CSS, Python .
+  - 💬 I'm 20 years old, currently living in Americana - SP. I have advanced English, and knowledge in HTML, CSS, Python .
 
-  - ⚡ Apaixonado pela tecnologia, adoro estudar, e sempre estar adquirindo novos conhecimentos! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas
-. \o/
+  - ⚡ Passionate about technology, I love studying, and always acquiring new knowledge! I believe that our personal interests contribute to a more accurate perception of things and to solving problems . 
 </details>
 
 <!-- Links -->
@@ -34,10 +33,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Automação de Tarefas](https://github.com/GabrielBenini/Automacao-De-Tarefas)
-- [Python - Chat WEB ou APP](https://github.com/GabrielBenini/Chat-Web-E-App)
-- [Python - Análise de Dados](https://github.com/GabrielBenini/Analise-De-Dados)
-- [Python - Agenda de Contatos](https://github.com/GabrielBenini/Agenda-De-Contatos)
+- [Python - Task Automation](https://github.com/GabrielBenini/Automacao-De-Tarefas)
+- [Python - WEB or APP chat](https://github.com/GabrielBenini/Chat-Web-E-App)
+- [Python - Data analysis](https://github.com/GabrielBenini/Analise-De-Dados)
+- [Python - Contact Directory](https://github.com/GabrielBenini/Agenda-De-Contatos)
 
 <!-- GIF -->
 <p align="left">
@@ -47,7 +46,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
+    <h3>Programming languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -55,7 +54,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
+    <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
