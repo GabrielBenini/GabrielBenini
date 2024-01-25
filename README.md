@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu sou Gabriel, estudando de Análise e Desenvolvimento de Sistemas .
+  Olá 👋, eu sou o Gabriel, estudante de Análise e Desenvolvimento de Sistemas .
 
   - 🌱 Atualmente cursando o 2 semestre de Análise e Desenvolvimento de Sistemas na FIAP 
 
