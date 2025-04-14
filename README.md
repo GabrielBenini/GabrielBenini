@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me </summary>
 
-  - 💬 I'm 20 years old, currently living in Americana - SP. I have advanced English, and knowledge in HTML, CSS, Python .
+  - 💬 I'm 22 years old, currently living in Americana - SP. I have advanced English, and knowledge in HTML, CSS, Python .
 
   - ⚡ Passionate about technology, I love studying, and always acquiring new knowledge! I believe that our personal interests contribute to a more accurate perception of things and to solving problems . 
 </details>
