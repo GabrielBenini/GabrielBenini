@@ -1,16 +1,12 @@
 <!-- Título -->
 <h1 align="center">Hello World 👋</h1>
 
-<br/>
-
 <!-- Apresentação -->
 <p align="center">
   Me chamo <strong>Gabriel Benini Avalca</strong>, tenho 22 anos e sou de Americana - SP. <br/>
   Concluí o ensino médio no Colégio Politec. Sou apaixonado por tecnologia e atualmente, <br/>
   estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 </p>
-
-<br/>
 
 <!-- Links -->
 <p align="center">
@@ -25,7 +21,7 @@
   </a>
 </p>
 
-<br/>
+---
 
 <!-- Linguagens e Tecnologias -->
 <h3 align="center">🤖 Linguagens e Tecnologias</h3>
@@ -39,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="50px" />
 </p>
 
-<br/>
+---
 
 <!-- Estatísticas GitHub -->
 <h3 align="center">📊 Estatísticas</h3>
@@ -57,7 +53,7 @@
   />
 </p>
 
-<br/>
+---
 
 <!-- GIF Final -->
 <p align="center">
