@@ -4,7 +4,7 @@
 <!-- Apresentação -->
 <p align="center">
   Me chamo <strong>Gabriel Benini Avalca</strong>, tenho 22 anos e sou de Americana - SP. <br/>
-  Concluí o ensino médio no Colégio Politec. Sou apaixonado por tecnologia e atualmente, <br/>
+  Concluí o ensino médio no Colégio Politec. Sou apaixonado por tecnologia e atualmente sou <br/>
   formado em Análise e Desenvolvimento de Sistemas na FIAP.
 </p>
 
